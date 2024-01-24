@@ -1,0 +1,13 @@
+{
+	"pathOrigem": "/home/gustavo/git/sucesso/evento-fusion/frontend/src/app/modules/evento/pagamentos/planos",
+	"entidades": [		
+		{
+			"files": "plano*",
+			"replaces": {
+				"plano":"voucher",
+				"Plano":"Voucher"
+			}
+		}
+		
+	]
+}

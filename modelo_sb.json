@@ -1,0 +1,14 @@
+{
+    "pathOrigem" :"/home/gustavo/projetos/workspace-bps/bps/bps-support",
+    "files":"PedidoCategoria*",
+    "replaces":{
+        "_pedido_categoria":"_parceiro",
+        "pedido-categoria":"parceiro",
+        "pedidoCategoria":"parceiro",
+        "PedidoCategoria":"Parceiro",
+        
+        "support":"admin"
+
+    }
+        
+}

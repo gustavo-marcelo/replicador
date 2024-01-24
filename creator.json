@@ -1,0 +1,36 @@
+{
+	"pathDestino": "/home/gustavo/projetos/workspace.stream/SucessoCreator/src",
+	"documentation": {
+		"author": "Gustavo Marcelo",
+		"mail": "gustavo@sucesso.io"
+	},
+	"classes": [
+		{
+			"package": "io.sucesso.serve.domain",
+			"name": "classroom",
+			"attributes": [
+				{
+					"name": "name"
+				},
+				{
+					"name": "capacity",
+					"type": "Ingeter"
+				}
+			],
+			"toString": true,
+			"implSerializable": true,
+			"constructor": {
+				"simples": true
+			}
+		},
+		{
+			"package": "io.sucesso.serve.domain",
+			"name": "theme",
+			"attributes": [
+				{
+					"name": "name"
+				}
+			]
+		}
+	]
+}

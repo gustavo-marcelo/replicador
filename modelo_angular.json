@@ -1,0 +1,15 @@
+{
+    "pathOrigem" :"/home/gustavo/git/bps/projetos/frontend/bps-angular/src/app",
+    "files":"pedido-categoria*",
+    "replaces":{
+        "_pedido_categoria":"_planta",
+        "pedido-categoria-":"planta-",
+        "pedido-categoria":"planta",
+        "pedidoCategoria":"planta",
+        "PedidoCategoria":"Planta",
+        
+        "support":"gallery"
+
+    }
+        
+}
